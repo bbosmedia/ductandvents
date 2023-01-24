@@ -22,7 +22,7 @@ const Updates = () => {
 				</div>
 				<div className="updates_card">
 					<img src="https://lh3.googleusercontent.com/p/AF1QipMiK7K6OmpWTtQpW_86_lqYhRbn866Yd_41lmuR=s1280-p-no-v1" alt="" />
-					<h4>$360 Air Duct Cleaning</h4>
+					<h4>$310 Air Duct Cleaning</h4>
 					<ul className="updates_card-content">
 						<li>Cleaning all supply vents</li>
 						<li>Cleaning Cold Air Return</li>

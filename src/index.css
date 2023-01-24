@@ -9,13 +9,13 @@
 }
 
 :root {
-	--maincolor: #88b06a;
+	--maincolor: #2c3e50;
 }
 
 body {
 	font-family: 'Roboto', sans-serif;
 	width: 100%;
-	background: #f8fff3;
+	background: #f4f9ff;
 }
 
 .container {
@@ -50,12 +50,12 @@ body {
 	margin-right: 20px;
 }
 .toggle i {
-	color: #88b06a;
+	color: #2c3e50;
 	font-size: 23px;
 }
 
 .nav .logo {
-	color: #88b06a;
+	color: #2c3e50;
 	text-decoration: none;
 	font-size: 20px;
 }
@@ -76,7 +76,7 @@ body {
 	display: flex;
 	list-style: none;
 	gap: 30px;
-	color: #88b06a;
+	color: #2c3e50;
 	font-size: 18px;
 }
 
@@ -84,7 +84,7 @@ body {
 	display: flex;
 	gap: 10px;
 	cursor: pointer;
-	color: #88b06a;
+	color: #2c3e50;
 	text-decoration: none;
 }
 
@@ -124,7 +124,7 @@ body {
 }
 
 .sidebar-item a {
-	color: #88b06a;
+	color: #2c3e50;
 	text-decoration: none;
 	font-size: 20px;
 }
@@ -134,7 +134,7 @@ body {
 }
 
 .main-title {
-	color: #88b06a;
+	color: #2c3e50;
 	font-size: 56px;
 	text-align: center;
 	font-weight: 400;
@@ -159,7 +159,7 @@ body {
 .main-btn {
 	padding: 18px 54px;
 	text-transform: uppercase;
-	background-color: #88b06a;
+	background-color: #2c3e50;
 	color: #fff;
 	font-size: 16px;
 	border: none;
@@ -215,7 +215,7 @@ body {
 }
 
 .updates_card-date {
-	color: #88b06a;
+	color: #2c3e50;
 	font-size: 16px;
 	margin-bottom: 20px;
 	display: block;
@@ -268,7 +268,7 @@ body {
 
 footer {
 	height: 70px;
-	background: #88b06a;
+	background: #2c3e50;
 	color: #fff;
 	display: flex;
 	align-items: center;
